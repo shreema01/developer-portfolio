@@ -13,3 +13,28 @@ h1{
 .orange{
     color:orange;
 }
+section{
+    display:flex;
+}
+.half-width{
+    width:50%;
+    padding-left:5%;
+
+
+}
+.half-width img{
+    width:100%;
+    
+}
+.hire-me-button{
+    text-decoration: none;
+    /* background-color:rgb(89, 33, 68); */
+    /* gradient mane holo 2 ta color er mix */
+    background-image: linear-gradient(pink,red);
+    padding:10px 40px;
+    border-radius: 5px;
+    color:white;
+    font-weight: 400;
+
+
+}
