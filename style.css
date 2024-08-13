@@ -69,3 +69,16 @@ h2{
     box-shadow: 10px 10px 40px grey;
     border-left: 10px solid black;
 }
+#web-dev-experience{
+    border-left:7px solid;
+    border-image:linear-gradient(blue,cyan);
+    border-image-slice:1;
+}
+#full-stack-experience{
+    border-left:7px solid;
+    border-image:linear-gradient(purple,tomato);
+    border-image-slice:1;
+}
+footer p{
+    text-align:center;
+}
